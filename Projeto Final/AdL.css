@@ -8,7 +8,10 @@ body{
     background-position: center;
 }
 
-
+.Grato{
+    background-color: #919191;
+    font-size: 50px;
+}
 
 header{
     width: 100vw;
@@ -33,7 +36,10 @@ header{
     color: aliceblue;
     font-size: 35px;
 }
-
+a{
+    font-size: 35px;
+    color: aliceblue;
+}
 main{
     text-align: center;
     width: 100vw;
